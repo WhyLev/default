@@ -1483,6 +1483,7 @@
   "wernerhp/ha.integration.load_shedding",
   "werthdavid/homeassistant-pulsatrix-local-mqtt",
   "wez/govee-lan-hass",
+  "WhyLev/indegohomeassistant",
   "widewing/ha-toyota-na",
   "WillCodeForCats/solaredge-modbus-multi",
   "WillCodeForCats/tekmar-482",
